@@ -1,2 +1,2 @@
 # 12-servo-hexapod-robot
-All files/codes needed to create my IoT-controlled hexapod robot
+I recently started building a simple hexapod robot as a personal project. My intention is to get a fundamental, thorough experience from designing to building a robot (this includes fabricating the structures, selecting and assembling circuit boards and servos, doing some programming on a microprocessor, basic IoT, etc.). This is an ongoing project, so I will be frequently updating this repository.
